@@ -1,8 +1,8 @@
 # 3D Printable Models
 This repository contains 3D printable models for HoloLens.
 
-# Models
-## Leap Motion mount for HoloLens
+## [Leap Motion mount for HoloLens](https://github.com/HoloLabInc/3dPrintableModels/tree/master/LeapMotionMountForHoloLens)
+![Leap Motion mount for HoloLens](https://github.com/HoloLabInc/3dPrintableModels/blob/master/LeapMotionMountForHoloLens/Images/Step14.jpg)
 
 
 # License
