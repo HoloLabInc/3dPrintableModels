@@ -1,6 +1,6 @@
 # Leap Motion Mount For HoloLens
 
-![Leap Motion mount for HoloLens](https://github.com/HoloLabInc/3dPrintableModels/blob/master/LeapMotionMountForHoloLens/Images/Step14.jpg)
+![Leap Motion mount for HoloLens](https://github.com/HoloLabInc/3dPrintableModels/blob/master/LeapMotionMountForHoloLens/Images/CompletedModel.jpg)
 
 # Parts list
 ## 3D printed parts (Material: ABS or PLA)
